@@ -2,10 +2,12 @@
 
 **Mission:** To build a foundation in technology and product thinking.
 
-## Current Focus (Month 1)
-- Completing Harvard's CS50
-- Mastering SQL fundamentals
-- Deconstructing product design
+# 90-Day Builder Journey
 
-## Daily Progress
-- [Day 1]: Repository created. Beginning CS50.
+## Current Sprint
+- CS50: Week 0-1
+- SQL: Basics
+- Product Analysis: Daily teardowns
+
+## Daily Log
+- Day 0: Setup complete
